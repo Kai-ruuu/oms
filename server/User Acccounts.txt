@@ -1,0 +1,17 @@
+Seller Accounts:
+
+ThreadKubo
+email: tk@gmail.com
+pass: threadkubo
+
+TeknoMura
+email: tm@gmail.com
+pass: teknomura
+
+
+
+Buyer Account:
+
+User
+email: buyer@gmail.com
+pass: userpass
